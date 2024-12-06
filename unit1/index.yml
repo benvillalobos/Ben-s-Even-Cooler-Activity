@@ -1,5 +1,7 @@
 id: unit1
-title: Introduction
-objectives: Learn about the course and its objectives.
+title: Introduction2
+duration: 2
+description: asd
+objectives: Learn about the course and its asdobjectives.
 lessons:
   - lesson1/index.yml
