@@ -1,27 +1,9 @@
-# yaml-language-server: $schema=https://vscodeedu.com/schema/course-v2.schema.json
 id: course1
-title: Ben's Even Cooler Activity
+title: Ben's Even Cooler Activity 2
 level: beginner
 description: Yep
 contacts:
   - displayName: benvillalobos
     homePageUrl: https://github.com/benvillalobos/Ben-s-Even-Cooler-Activity
 units:
-  - id: unit1
-    title: Introduction
-    objectives: Learn about the course and its objectives.
-    lessons:
-      - id: lesson1
-        title: About this course
-        objectives: Understand the course structure and objectives.
-        lessonParts:
-          - id: lessonpart1
-            title: Welcome to Ben's Even Cooler Activity
-            duration: 5
-            content: |-
-              **Welcome to the course authoring!**
-              You can use Markdown to format your content.
-            showContent: true
-            showEditor: false
-            showTerminal: false
-            showExplorer: false
+  - unit1/index.yml
