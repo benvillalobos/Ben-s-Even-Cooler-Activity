@@ -1,9 +1,12 @@
 id: course1
 title: Ben's Even Cooler Activity 2
+duration: 123123
 level: beginner
-description: Yep
+description: Yepasdasd
+cardImageUrl: asd
 contacts:
-  - displayName: benvillalobos
+  - displayName: benvillalobos2
+    affiliation: asdasdasdasdasd2
     homePageUrl: https://github.com/benvillalobos/Ben-s-Even-Cooler-Activity
 units:
   - unit1/index.yml
